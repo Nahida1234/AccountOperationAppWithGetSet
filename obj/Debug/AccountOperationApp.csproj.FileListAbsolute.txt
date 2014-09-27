@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationFormUI.resources
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+C:\Users\PC21\Desktop\Harun\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
